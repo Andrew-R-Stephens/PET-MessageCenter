@@ -4,7 +4,7 @@
   <channel>
     <language>en-us</language>
     <item>
-      <title>News and Updates Tool | v7.0.3</title>
+      <title>General News</title>
       <description>&lt;div class=&quot;bb_h2&quot;&gt;
 	  Fixes&lt;/div&gt;&lt;ul class=&quot;bb_ul&quot;&gt;&lt;li&gt; Fixed a bug where some Ouija Board sanity questions were taking away too much sanity&lt;br&gt;&lt;/li&gt;&lt;li&gt; Fixed a bug where the Ouija Board sanity questions would give a different answer for each player in multiplayer&lt;br&gt;&lt;/li&gt;&lt;li&gt; Fixed a bug where the ghost would not kill you if it saw you while checking your last location&lt;br&gt;&lt;/li&gt;&lt;li&gt; Fixed a bug where the snow weather effects were not working correctly&lt;br&gt;&lt;/li&gt;&lt;li&gt; Potential fix for the escape the ghost mission sometimes not completing&lt;br&gt;&lt;/li&gt;&lt;li&gt; Fixed a bug where player volumes were not always setting to the correct value after loading into a game&lt;br&gt;&lt;/li&gt;&lt;li&gt; Fixed a bug where you would get fingerprints photos on Campsite when there were no fingerprints&lt;br&gt;&lt;/li&gt;&lt;li&gt; Fixed a bug where the ghost could sometimes think non hosts were inside closets and kill them from far away&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;div class=&quot;bb_h2&quot;&gt;Changes&lt;/div&gt;&lt;ul class=&quot;bb_ul&quot;&gt;&lt;li&gt; Voice recognition phrases will now default to English if they have not been translated&lt;/li&gt;&lt;/ul&gt;</description>
       <link><![CDATA[https://steamcommunity.com/games/739630/announcements/detail/3060753084266419646]]></link>
