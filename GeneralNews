@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Generated on Thu, 04 Nov 2021 13:57:25 -0700 -->
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-	<channel>
-		<language>en-us</language>
-			<item>
-	    			<title>Welcome to the General News!</title>
-	    			<pubDate>Thu, 6 Nov 2021</pubDate>
-	    			<description>Welcome to the General News! Visit this inbox to find some new information regarding the current direction of P.E.T. as well as some extra details about Phasmophobia.</description>
-			</item>
-	</channel>
+  <channel>
+    <language>en-us</language>
+    <item>
+      <title>Welcome to the General News!</title>
+      <pubDate>Saturday, 6 Nov 2021</pubDate>
+      <description>Welcome to the General News!&lt;/div&gt;
+	      Visit this inbox to find some new information regarding the current direction of P.E.T. as well as some extra details about Phasmophobia.
+	    </description>
+    </item>
+  </channel>
 </rss>
