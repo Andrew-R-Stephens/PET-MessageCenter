@@ -4,18 +4,28 @@
     <language>en-us</language>
     <item>
       <title>Message Center | Update v7.0.4</title>
-      <description>Added
-	      &lt;/div&gt;
+      <description>
+	      NEW FEATURES
 	      &lt;/div&gt;
 	      Message Center:&lt;/div&gt;
-	      The Message Center will contain messages pertaining Phasmophobia, P.E.T., and teritary general Phasmophobia-related news.
+	      The Message Center will contain messages pertaining Phasmophobia, P.E.T., and teritary general Phasmophobia-related news.&lt;/div&gt;
 	      &lt;/div&gt;
-	      - General News: 
+	      - General News: Supplementary, non-changelog type information pertaining to Phasmophobia and P.E.T. Find information about official community events, 
+	      or get notified about any new future plans for P.E.T.&lt;/div&gt;
 	      &lt;/div&gt;
-	      - P.E.T. Change-log: 
+	      - P.E.T. Change-log: Stay up-to-date with the changes to P.E.T. by reading the official developer change-logs!&lt;/div&gt;
 	      &lt;/div&gt;
-	      - Phasmophobia Change-log: 
-	    </description
+	      - Phasmophobia Change-log: Stay up-to-date with the changes to Phasmophobia by reading the official developer change-logs!&lt;/div&gt;
+	      &lt;/div&gt;
+	      App Settings:&lt;/div&gt;
+	      Ability to disable Mobile Data usage for the Message Center.&lt;/div&gt;
+	      &lt;/div&gt;
+	      &lt;/div&gt;
+	      FIXES&lt;/div&gt;
+	      &lt;/div&gt;
+	      The Title Screen had an issue where the animations would cause app crashes. There should no longer be crashes from this.&lt;/div&gt;
+	      User-selected language should now be default on the Title Screen.&lt;/div&gt;	      
+	    </description>
       <pubDate>Saturday, 06 Nov 2021</pubDate>
     </item>
   </channel>
