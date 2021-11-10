@@ -3,6 +3,16 @@
   <channel>
     <language>en-us</language>
     <item>
+      <title>Message Center | Hotfix v7.0.6</title>
+      <pubDate>Wednesday, 10 Nov 2021</pubDate>
+      <description>
+	&lt;div class=&quot;bb_h2&quot;&gt;FIXES&lt;/div&gt;
+	&lt;ul class=&quot;bb_ul&quot;&gt;
+	&lt;li&gt; Fixed a crash on startup caused by Android versions 11+ requiring an additional proprietary androidx library. &lt;br&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+      </description>
+    </item>
+    <item>
       <title>Message Center | Update v7.0.4</title>
       <pubDate>Saturday, 6 Nov 2021</pubDate>
       <description>
