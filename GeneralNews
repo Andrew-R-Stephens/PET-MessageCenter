@@ -3,9 +3,18 @@
   <channel>
     <language>en-us</language>
       <item>
-      <title>Christmas Update inbound!</title>
-      <pubDate>Thursday, 25 Nov 2021</pubDate>
-      <description>
+        <title>New Ghost addition!</title>
+        <pubDate>Wednesday, 1 Dec 2021</pubDate>
+        <description>
+	      &lt;h1&gt;Introducing: The Mimic!&lt;/h1&gt;
+	      &lt;p&gt;Phasmophobia's Dev Team has announced a new Ghost type, "The Mimic".&lt;/p&gt;
+	      &lt;p&gt;This ghost seems to copycat the behavior of other ghost types. More information in the form of a redacted Journal entry is provided in the official Phasmophobia Discord!&lt;/p&gt;
+        </description>
+      </item>
+      <item>
+        <title>Christmas Update inbound!</title>
+        <pubDate>Thursday, 25 Nov 2021</pubDate>
+        <description>
 	      &lt;h1&gt;Phasmophobia has announced the next big update!&lt;/h1&gt;
 	      &lt;p&gt;The Christmas Update will contain a huge amount of updates, including brand new Voodoo Doll and Summoning Circle features, a "cursed posession" music box feature, and many other new fixes.&lt;/p&gt;
 	      &lt;p&gt;We've been granted some previews but no specifics. Be sure to keep an eye out for new updates posted on their Discord!&lt;/p&gt;
