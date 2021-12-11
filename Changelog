@@ -3,17 +3,39 @@
   <channel>
     <language>en-us</language>
     <item>
+      <title>Christmas Update v7.1.0</title>
+      <pubDate>Friday, 10 Dec 2021</pubDate>
+      <description>
+	&lt;h1&gt;Happy Hollidays!&lt;/h1&gt;
+	&lt;p&gt;Updates to P.E.T. have been made to keep up with the new updates belonging to the new Christmas update.&lt;/p&gt;
+	&lt;h1&gt;ADDITIONS&lt;/h1&gt;
+	&lt;ul class=&quot;bb_ul&quot;&gt;
+	  &lt;li&gt;Added ghost type: The Mimic.&lt;br&gt;&lt;/li&gt;
+	  &lt;li&gt;The Evidence page now works around The Mimic (since The Mimic now has a fourth potential evidence -- the Ghost Orb).&lt;br&gt;&lt;/li&gt;
+	  &lt;li&gt;Added translations for all Ghosts and Evidence.&lt;br&gt;&lt;/li&gt;
+	  &lt;li&gt;New layout format and font appearance within data-centric pages.&lt;br&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;h1&gt;FIXES&lt;/h1&gt;
+	&lt;ul class=&quot;bb_ul&quot;&gt;
+	  &lt;li&gt;Made optimization for layouts to better fit all devices.&lt;br&gt;&lt;/li&gt;
+	  &lt;li&gt;Fixed all bugs found with the Phase Timer.&lt;br&gt;&lt;/li&gt;
+	  &lt;li&gt;Further optimized a lot of code.&lt;br&gt;&lt;/li&gt;
+	  &lt;li&gt;Fixed bugs with the Phase Timer.&lt;br&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+      </description>
+    </item>
+    <item>
       <title>Optimization | Patch v7.0.18</title>
       <pubDate>Wednesday, 24 Nov 2021</pubDate>
       <description>
 	&lt;h1&gt;NEW FEATURES&lt;/h1&gt;
 	&lt;ul class=&quot;bb_ul&quot;&gt;
-	&lt;li&gt; Added Willow Street House map images to the Map Viewer.&lt;br&gt;&lt;/li&gt;
+	  &lt;li&gt; Added Willow Street House map images to the Map Viewer.&lt;br&gt;&lt;/li&gt;
 	&lt;/ul&gt;
 	&lt;h1&gt;FIXES&lt;/h1&gt;
 	&lt;ul class=&quot;bb_ul&quot;&gt;
-	&lt;li&gt; Optimized a lot of code.&lt;br&gt;&lt;/li&gt;
-	&lt;li&gt; Fixed bugs with the Phase Timer.&lt;br&gt;&lt;/li&gt;
+	  &lt;li&gt; Optimized a lot of code.&lt;br&gt;&lt;/li&gt;
+	  &lt;li&gt; Fixed bugs with the Phase Timer.&lt;br&gt;&lt;/li&gt;
 	&lt;/ul&gt;
       </description>
     </item>
@@ -23,7 +45,7 @@
       <description>
 	&lt;h1&gt;FIXES&lt;/h1&gt;
 	&lt;ul class=&quot;bb_ul&quot;&gt;
-	&lt;li&gt; Fixed a crash on startup caused by Android versions 11+ requiring an additional proprietary androidx library. &lt;br&gt;&lt;/li&gt;
+	  &lt;li&gt; Fixed a crash on startup caused by Android versions 11+ requiring an additional proprietary androidx library. &lt;br&gt;&lt;/li&gt;
 	&lt;/ul&gt;
       </description>
     </item>
@@ -33,16 +55,16 @@
       <description>
 	&lt;h1&gt;NEW FEATURES&lt;/h1&gt;
 	&lt;ul class=&quot;bb_ul&quot;&gt;
-	&lt;li&gt; Message Center: The Message Center will contain messages pertaining Phasmophobia, P.E.T., and teritary general Phasmophobia-related news.&lt;br&gt;&lt;/li&gt;
-	&lt;li&gt; General News: Supplementary, non-changelog type information pertaining to Phasmophobia and P.E.T. Find information about official community events, or get notified about any new future plans for P.E.T.&lt;br&gt;&lt;/li&gt;
-	&lt;li&gt; P.E.T. Change-log: Stay up-to-date with the changes to P.E.T. by reading the official developer change-logs!&lt;br&gt;&lt;/li&gt;
-	&lt;li&gt; Phasmophobia Change-log: Stay up-to-date with the changes to Phasmophobia by reading the official developer change-logs!&lt;br&gt;&lt;/li&gt;
-	&lt;li&gt; Ability to disable Mobile Data usage for the Message Center.&lt;br&gt;&lt;/li&gt;
+	  &lt;li&gt; Message Center: The Message Center will contain messages pertaining Phasmophobia, P.E.T., and teritary general Phasmophobia-related news.&lt;br&gt;&lt;/li&gt;
+	  &lt;li&gt; General News: Supplementary, non-changelog type information pertaining to Phasmophobia and P.E.T. Find information about official community events, or get notified about any new future plans for P.E.T.&lt;br&gt;&lt;/li&gt;
+	  &lt;li&gt; P.E.T. Change-log: Stay up-to-date with the changes to P.E.T. by reading the official developer change-logs!&lt;br&gt;&lt;/li&gt;
+	  &lt;li&gt; Phasmophobia Change-log: Stay up-to-date with the changes to Phasmophobia by reading the official developer change-logs!&lt;br&gt;&lt;/li&gt;
+	  &lt;li&gt; Ability to disable Mobile Data usage for the Message Center.&lt;br&gt;&lt;/li&gt;
 	&lt;/ul&gt;
 	&lt;h1&gt;FIXES&lt;/h1&gt;
 	&lt;ul class=&quot;bb_ul&quot;&gt;
-	&lt;li&gt; The Title Screen had an issue where the animations would cause app crashes. There should no longer be crashes from this.&lt;br&gt;&lt;/li&gt;
-	&lt;li&gt; User-selected language should now be default on the Title Screen.&lt;/li&gt;
+	  &lt;li&gt; The Title Screen had an issue where the animations would cause app crashes. There should no longer be crashes from this.&lt;br&gt;&lt;/li&gt;
+	  &lt;li&gt; User-selected language should now be default on the Title Screen.&lt;/li&gt;
 	&lt;/ul&gt;
       </description>
     </item>
