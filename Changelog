@@ -3,6 +3,40 @@
   <channel>
     <language>en-us</language>
     <item>
+      <title>Christmas Update v7.2.0</title>
+      <pubDate>Saturday, 1 January 2022</pubDate>
+      <description>
+	&lt;h1&gt;Content Patch | New Years&lt;/h1&gt;
+	&lt;p&gt;P.E.T. has been updated to add more functionality for Nightmare Mode, the Map Selection page has also had a graphical uplift, and much more!&lt;/p&gt;
+	&lt;h1&gt;CHANGES&lt;/h1&gt;
+	&lt;ul class=&quot;bb_ul&quot;&gt;
+	  &lt;li&gt;Selecting Nightmare Mode in the Difficulty will now let the Evidence narrow down your ghosts even further after two Evidence selections are made. This works by eliminating ghosts which have specific behaviors tied to evidence which are not picked. (Ghosts which will be affected include the Goryo [D.O.T.S.], the Mimic[Ghost Orbs], the Hantu [Freezing Temps], and the Obake [Fingerprints]).&lt;br&gt;&lt;/li&gt;
+	  &lt;li&gt;The Maps Selection page now contains images for each Map, where the images are the tell-tale descriptive locations making it easier to distinguish each selection at a glance.&lt;br&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;h1&gt;ADDITIONS&lt;/h1&gt;
+	&lt;ul class=&quot;bb_ul&quot;&gt;
+	  &lt;li&gt;New images will be seen on the Title Screen! (Cracked Haunted Mirror, Tarot Cards, Ouija Board)&lt;br&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;h1&gt;FIXES&lt;/h1&gt;
+	&lt;ul class=&quot;bb_ul&quot;&gt;
+	  &lt;li&gt;Potential fix where downloading Newsletter data caused crashes in very rare instances.&lt;br&gt;&lt;/li&gt;
+	  &lt;li&gt;Image optimization for devices spanning across all DPI variations. This should downscale app storage size for smaller devices.&lt;br&gt;&lt;/li&gt;
+	  &lt;li&gt;Potential fix where Title Screen would crash from an OS-bound issue in very rare instances.&lt;br&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;h1&gt;UPCOMING CHANGES&lt;/h1&gt;
+	&lt;ul class=&quot;bb_ul&quot;&gt;
+	  &lt;li&gt;Tools page containing a Codex, Ghost Box utility, PET Help and Highscores.&lt;br&gt;&lt;/li&gt;
+	  &lt;li&gt;Image optimization for devices spanning across all DPI variations.&lt;br&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;h1&gt;POTENTIAL ISSUES&lt;/h1&gt;
+	&lt;ul class=&quot;bb_ul&quot;&gt;
+	  &lt;li&gt;Pop-in images may display incorrectly on the Title Screen.&lt;br&gt;&lt;/li&gt;
+	  &lt;li&gt;Pop-in images may cause crashes.&lt;br&gt;&lt;/li&gt;
+	  &lt;li&gt;32-bit devices may not be able to download Newsletter data.&lt;br&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+      </description>
+    </item>
+    <item>
       <title>Christmas Update v7.1.0</title>
       <pubDate>Friday, 10 Dec 2021</pubDate>
       <description>
