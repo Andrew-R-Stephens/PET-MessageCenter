@@ -3,6 +3,21 @@
   <channel>
     <language>en-us</language>
     <item>
+      <title>Landscape Mode v7.2.2</title>
+      <pubDate>Saturday, 12 January 2022</pubDate>
+      <description>
+	&lt;h1&gt;Lanscape Mode | Patch&lt;/h1&gt;
+	&lt;h1&gt;CHANGES&lt;/h1&gt;
+	&lt;ul class=&quot;bb_ul&quot;&gt;
+	  &lt;li&gt;Landscape Mode is now available for the Investigation pages!&lt;br&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;h1&gt;FIXES&lt;/h1&gt;
+	&lt;ul class=&quot;bb_ul&quot;&gt;
+	  &lt;li&gt;Image optimization for devices spanning across all DPI variations. This should downscale app storage size for smaller devices.&lt;br&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+      </description>
+    </item>
+    <item>
       <title>New Years Update v7.2.0</title>
       <pubDate>Saturday, 1 January 2022</pubDate>
       <description>
