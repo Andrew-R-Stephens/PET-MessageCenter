@@ -3,10 +3,22 @@
   <channel>
     <language>en-us</language>
     <item>
+      <title>Landscape Mode v7.3.0</title>
+      <pubDate>Friday, 10 June 2022</pubDate>
+      <description>
+	&lt;h1&gt;Truck Overhaul | Patch&lt;/h1&gt;
+	&lt;h1&gt;ADDITIONS&lt;/h1&gt;
+	&lt;ul class=&quot;bb_ul&quot;&gt;
+	  &lt;li&gt;Support for all new ghosts!&lt;br&gt;&lt;/li&gt;
+	  &lt;li&gt;Collapsible Sanity Tracker functionality.&lt;br&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+      </description>
+    </item>
+    <item>
       <title>Landscape Mode v7.2.2</title>
       <pubDate>Saturday, 12 January 2022</pubDate>
       <description>
-	&lt;h1&gt;Lanscape Mode | Patch&lt;/h1&gt;
+	&lt;h1&gt;Landscape Mode | Patch&lt;/h1&gt;
 	&lt;h1&gt;CHANGES&lt;/h1&gt;
 	&lt;ul class=&quot;bb_ul&quot;&gt;
 	  &lt;li&gt;Landscape Mode is now available for the Investigation pages!&lt;br&gt;&lt;/li&gt;
