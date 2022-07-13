@@ -3,6 +3,26 @@
   <channel>
     <language>en-us</language>
     <item>
+      <title>Quality of Life Improvements!</title>
+      <pubDate>Tuesday, 12 July 2022</pubDate>
+      <description>
+	&lt;h1&gt;ADDITIONS&lt;/h1&gt;
+	&lt;ul class=&quot;bb_ul&quot;&gt;
+	  &lt;li&gt;Swipe name to negate ghost" functionality: If a ghost name is swiped, it will be negated from the list of possible ghosts. Reswiping the name will remove the negation.&lt;/li&gt;
+	  &lt;li&gt;To help you stay up-to-date, the Message Center now has notification icons to alert you of new messages and help you stay up-to-date.&lt;/li&gt;
+	  &lt;li&gt;Settings now contains a "Enable left-handed mode" which affects the Evidence and Ghost lists by swapping their screen locations.&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;h1&gt;FIXES&lt;/h1&gt;
+	&lt;ul class=&quot;bb_ul&quot;&gt;
+	  &lt;li&gt;With the Nightmare difficulty selected, the Moroi will automatically be negated if the Spirit Box is left unselected if two evidence are already confirmed.&lt;br&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;h1&gt;FUTURE UPDATES&lt;/h1&gt;
+	&lt;ul class=&quot;bb_ul&quot;&gt;
+	  &lt;li&gt;Other new features are planned to be released in seperate installments by the end of Summer .&lt;br&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+      </description>
+    </item>
+    <item>
       <title>Truck Overhaul Patch v7.3.0</title>
       <pubDate>Friday, 10 June 2022</pubDate>
       <description>
