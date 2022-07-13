@@ -3,9 +3,10 @@
   <channel>
     <language>en-us</language>
     <item>
-      <title>Quality of Life Improvements!</title>
+      <title>Quality of Life Improvements  v7.4.0</title>
       <pubDate>Tuesday, 12 July 2022</pubDate>
       <description>
+	&lt;h1&gt;New features | Patch&lt;/h1&gt;
 	&lt;h1&gt;ADDITIONS&lt;/h1&gt;
 	&lt;ul class=&quot;bb_ul&quot;&gt;
 	  &lt;li&gt;New "Swipe to negate" functionality! If a ghost name is swiped, it will be negated from the list of possible ghosts. Reswiping the name will remove the negation.&lt;/li&gt;
