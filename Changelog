@@ -8,7 +8,7 @@
       <description>
 	&lt;h1&gt;ADDITIONS&lt;/h1&gt;
 	&lt;ul class=&quot;bb_ul&quot;&gt;
-	  &lt;li&gt;Swipe name to negate ghost" functionality: If a ghost name is swiped, it will be negated from the list of possible ghosts. Reswiping the name will remove the negation.&lt;/li&gt;
+	  &lt;li&gt;New "Swipe to negate" functionality! If a ghost name is swiped, it will be negated from the list of possible ghosts. Reswiping the name will remove the negation.&lt;/li&gt;
 	  &lt;li&gt;To help you stay up-to-date, the Message Center now has notification icons to alert you of new messages and help you stay up-to-date.&lt;/li&gt;
 	  &lt;li&gt;Settings now contains a "Enable left-handed mode" which affects the Evidence and Ghost lists by swapping their screen locations.&lt;/li&gt;
 	&lt;/ul&gt;
