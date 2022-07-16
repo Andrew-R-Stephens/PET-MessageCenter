@@ -3,6 +3,17 @@
   <channel>
     <language>en-us</language>
     <item>
+      <title>Quality of Life | Hotfixes</title>
+      <pubDate>Tuesday, 16 July 2022</pubDate>
+      <description>
+	&lt;h1&gt;Information on the Hotfixes&lt;/h1&gt;
+	&lt;p&gt;The most recent Hotfixes &lt;em&gt;should&lt;/em&gt; resolve crashes which were caused by new features in the Quality of Life update.&lt;/p&gt;
+	&lt;p&gt;I'd like to extend many apologies for the issues. They were caused by many problems which I was unable to fabricate through testing, as they were heavily bound to both internet connectivity performance, device performance, and the Android OS versions. As such, I'll be closely monitoring Live performance over the next few days for any new problems.&lt;/p&gt;
+	&lt;p&gt;Oh, and thank you for submitting your crash reports!&lt;/p&gt;
+	&lt;h2&gt;As always, Happy Hunting!&lt;/h1&gt;
+      </description>
+    </item>
+    <item>
       <title>New App Update Inbound Soon!</title>
       <pubDate>Tuesday, 12 July 2022</pubDate>
       <description>
