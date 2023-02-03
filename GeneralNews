@@ -3,6 +3,19 @@
   <channel>
     <language>en-us</language>
     <item>
+      <title>Preparing for announced game Updates</title>
+      <pubDate>Friday, 3 February 2023</pubDate>
+      <description>
+	&lt;h1&gt;A new Phasmophobia update is underway!&lt;/h1&gt;
+	&lt;p&gt;Phasmophobia will be releasing a new difficulty mode called "Insanity".&lt;/p&gt;
+	&lt;p&gt;"Insanity" mode will reduce given evidence count by 1, meaning that most ghosts will only leave one evidence while the Mimic will most likely leave two (this is unconfirmed).&lt;/p&gt;
+	&lt;p&gt;PET has been reworked to assist users with this new Insanity mode! The changes will be released in the the next PET update shortly following the Phasmophobia update.&lt;/p&gt;
+	&lt;p&gt;A new feature -- the Ghost Box -- will be available for Beta testing with this new update. The Ghost Box is a Text to Speech (TTS) voice bot which allows individuals to communicate with the ghost without having to speak into the microphone directly. After connecting your phone audio output to you system input, via Bluetooth or Auxiliary cables, you may use the Ghost Box to transmit voice prompts directly into the game. This is especially good for the mute or deaf community, or for users who need to maintain a quiet working environment! As this is a delicate feature, some issues may arise. To enable the Ghost Box, these conditions must be met: PET must be granted permission to access the device's Microphone, your device must have a Text to Speech voice package installed (your selected language may require a specific TTS voice package installed for proper pronounciations), and your volume must be turned on to hear the audio output.&lt;/p&gt;
+	&lt;p&gt;Other changes, such as bug fixes and added functionality, have also been in development. Expect to see these changes in the coming weeks.&lt;/p&gt;
+	&lt;h2&gt;As always, Happy Hunting!&lt;/h1&gt;
+      </description>
+    </item>
+    <item>
       <title>Quality of Life | Hotfixes</title>
       <pubDate>Tuesday, 16 July 2022</pubDate>
       <description>
