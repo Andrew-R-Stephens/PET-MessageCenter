@@ -3,6 +3,44 @@
   <channel>
     <language>en-us</language>
     <item>
+      <title>Ascension Update - Patch 1</title>
+      <pubDate>Thursday, 17 August 2023</pubDate>
+      <description>
+	&lt;h1&gt;New features&lt;/h1&gt;
+	&lt;h1&gt;ADDITIONS&lt;/h1&gt;
+	&lt;ul class=&quot;bb_ul&quot;&gt;
+	  &lt;li&gt;Added popup of GDPR consent form in titlescreen for EU/UK users&lt;/li&gt;
+	  &lt;li&gt;Added link to GDPR consent form in settings for EU/UK users&lt;/li&gt;
+	  &lt;li&gt;Added Settings page Font style selection&lt;/li&gt;
+	  &lt;li&gt;Added "P.E.T. Classic", "Journal", "Android", "Brick" and "Clean" fonts&lt;/li&gt;
+	  &lt;li&gt;Added Hunt data to Ghost information popup.&lt;/li&gt;
+	  &lt;li&gt;Added paging between Overview and Tiers in the Evidence information popup&lt;/li&gt;
+	  &lt;li&gt;Added Evidence information page animations&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;h1&gt;FIXES&lt;/h1&gt;
+	&lt;ul class=&quot;bb_ul&quot;&gt;
+	  &lt;li&gt;Fixed Settings page layout.&lt;br&gt;&lt;/li&gt;
+	  &lt;li&gt;Fixed translations.&lt;br&gt;&lt;/li&gt;
+	  &lt;li&gt;Fixed Ghost information popup.&lt;br&gt;&lt;/li&gt;
+	  &lt;li&gt;Fixed Evidence information popup.&lt;br&gt;&lt;/li&gt;
+	  &lt;li&gt;Fixed fonts not fitting.&lt;br&gt;&lt;/li&gt;
+	  &lt;li&gt;Fixed some global style issues.&lt;br&gt;&lt;/li&gt;
+	  &lt;li&gt;Fixed layout to App Info page.&lt;br&gt;&lt;/li&gt;
+	  &lt;li&gt;Fixed layout of Evidence Information for landscape mode.&lt;br&gt;&lt;/li&gt;
+	  &lt;li&gt;Fixed all Ghost information's Hunting Data.&lt;br&gt;&lt;/li&gt;
+	  &lt;li&gt;Fixed Evidence information popup fullscreen images.&lt;br&gt;&lt;/li&gt;
+	  &lt;li&gt;Fixed Landscape fonts.&lt;br&gt;&lt;/li&gt;
+	  &lt;li&gt;Fixed Evidence Fragment layouts to function better.&lt;br&gt;&lt;/li&gt;
+	  &lt;li&gt;Fixed Ghost popup to scale textviews appropriately.&lt;br&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;h1&gt;FUTURE UPDATES&lt;/h1&gt;
+	&lt;ul class=&quot;bb_ul&quot;&gt;
+	  &lt;li&gt;Due to the progression system, tools cannot be tested or viewed yet. As more information starts rolling in, the Evidence and Tool information pages will gradually become more complete.&lt;br&gt;&lt;/li&gt;
+	  &lt;li&gt;Translations for the Czech and Russian languages.&lt;br&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+      </description>
+    </item>
+    <item>
       <title>Quality of Life Improvements  v7.4.0</title>
       <pubDate>Tuesday, 12 July 2022</pubDate>
       <description>
