@@ -3,6 +3,29 @@
   <channel>
     <language>en-us</language>
     <item>
+      <title>Interactive Map - Major Update</title>
+      <pubDate>Friday, 15 September 2023</pubDate>
+      <description>
+	&lt;h1&gt;New features&lt;/h1&gt;
+	&lt;h1&gt;ADDITIONS&lt;/h1&gt;
+	&lt;ul class=&quot;bb_ul&quot;&gt;
+	  &lt;li&gt;A whole new Map Viewer has been added!&lt;/li&gt;
+	  &lt;li&gt;The Map Viewer can now be interacted with! Select a Map, select a floor of the map, locate cursed items, locate fuse boxes, and find/select rooms with a tap of the finger! Not sure where a room is? Use the dropdown list of rooms. Selecting a room from the dropdown will highlight the room on the Map! Not sure what the room is called? Tap on the image of the room and the dropdown will show the name!&lt;/li&gt;
+	  &lt;li&gt;You may also use the Map Viewer to visualize the locations of any Fuse Box or Cursed Item!&lt;/li&gt;
+	  &lt;li&gt;Added Japanese, Chinese Simplified, Italian, Portuguese, Russian, and Czech translations.&lt;br&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;h1&gt;FIXES&lt;/h1&gt;
+	&lt;ul class=&quot;bb_ul&quot;&gt;
+	  &lt;li&gt;Better information about the equipment.&lt;br&gt;&lt;/li&gt;
+	  &lt;li&gt;Fixed translations.&lt;br&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;h1&gt;FUTURE UPDATES&lt;/h1&gt;
+	&lt;ul class=&quot;bb_ul&quot;&gt;
+	  &lt;li&gt;A display, much like the Safehouse Item Shop, that displays extended information about all equipment.&lt;br&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+      </description>
+    </item>
+    <item>
       <title>Ascension Update - Patch 1</title>
       <pubDate>Thursday, 17 August 2023</pubDate>
       <description>
