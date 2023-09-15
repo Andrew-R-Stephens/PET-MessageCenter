@@ -3,6 +3,16 @@
   <channel>
     <language>en-us</language>
     <item>
+      <title>The Interactive Map has arrived!</title>
+      <pubDate>Friday, 15 September 2023</pubDate>
+      <description>
+	&lt;h1&gt;The Map Viewer has been updated!&lt;/h1&gt;
+	&lt;p&gt;The Map Viwer is now interactive! It supports map/floor/room selection, room searches, room boundary visualization, and displays Fuse Boxes and Cursed Items! Go check it out!&lt;/p&gt;
+	&lt;p&gt;Due to the new feature being highly experimental, if you have any problems with it, please be sure to contact TritiumGamingStudiosDM@gmail.com.&lt;/p&gt;
+        &lt;p&gt;Happy hunting!&lt;/p&gt;
+      </description>
+    </item>
+    <item>
       <title>Ascension is here!</title>
       <pubDate>Thursday, 17 August 2023</pubDate>
       <description>
