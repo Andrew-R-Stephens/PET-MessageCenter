@@ -11,6 +11,7 @@
 	&lt;h1&gt;FIXES&lt;/h1&gt;
 	&lt;ul class=&quot;bb_ul&quot;&gt;
 	  &lt;li&gt;There was a major crash caused by loading into the Map Menu. This crash was caused by unforseen logic in the production (public release) build variant. What is currently live should those fix issue!&lt;br&gt;&lt;/li&gt;
+	  &lt;li&gt;The update should be live within the next few hours (starting 3:00 AM EST). This depends on how quickly Google will publish the updates.&lt;br&gt;&lt;/li&gt;
 	&lt;/ul&gt;
       </description>
     </item>
