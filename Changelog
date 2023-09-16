@@ -3,11 +3,11 @@
   <channel>
     <language>en-us</language>
     <item>
-      <title>Interactive Map - Patch 1/title>
+      <title>Interactive Map - Patch 1</title>
       <pubDate>Saturday, 16 September 2023</pubDate>
       <description>
 	&lt;h1&gt;Sorry for the issues!!&lt;/h1&gt;
-	&lt;p&gt;The release build did not work as intended, so this patch should fix any major Interactive Map crashes!&lt;/p&gt;
+	&lt;h3&gt;The release build did not work as intended, so this patch should fix any major Interactive Map crashes!&lt;/h3&gt;
 	&lt;h1&gt;FIXES&lt;/h1&gt;
 	&lt;ul class=&quot;bb_ul&quot;&gt;
 	  &lt;li&gt;There was a major crash caused by loading into the Map Menu. This crash was caused by unforseen logic in the production (public release) build variant. What is currently live should those fix issue!&lt;br&gt;&lt;/li&gt;
