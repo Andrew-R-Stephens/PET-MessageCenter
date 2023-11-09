@@ -4,6 +4,25 @@
     <language>en-us</language>
     <item>
       <title>Interactive Map - Patch 1</title>
+      <pubDate>Friday, 27 October 2023</pubDate>
+      <description>
+	&lt;h1&gt;Halloween Update&lt;/h1&gt;
+	&lt;h3&gt;The new version of Maple Lodge Campsite was released on Phasmophobia! With it came changes to the Interactive Map in PET. Images and map data have been updated to reflect the game updates to Maple Lodge Campsite.&lt;/h3&gt;
+	&lt;h1&gt;Changes&lt;/h1&gt;
+	&lt;ul class=&quot;bb_ul&quot;&gt;
+	  &lt;li&gt;Added new images for Maple Lodge Campsite.&lt;br&gt;&lt;/li&gt;
+	  &lt;li&gt;Added new map data for Maple Lodge Campsite.&lt;br&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;h1&gt;Fixes&lt;/h1&gt;
+	&lt;ul class=&quot;bb_ul&quot;&gt;
+	  &lt;li&gt;Fixed small issue with the auto update checker causing crashes.&lt;br&gt;&lt;/li&gt;
+	  &lt;li&gt;Hotfixes for various SDK-related problems. (SDK issues are underlying problems on Google's end).&lt;br&gt;&lt;/li&gt;
+	  &lt;li&gt;Patched a few layout issues for larger devices.&lt;br&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+      </description>
+    </item>
+    <item>
+      <title>Interactive Map - Patch 1</title>
       <pubDate>Saturday, 16 September 2023</pubDate>
       <description>
 	&lt;h1&gt;Sorry for the issues!!&lt;/h1&gt;
