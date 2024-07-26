@@ -3,6 +3,34 @@
   <channel>
     <language>en-us</language>
     <item>
+      <title>Point Hope and Marketplace [ MAJOR UPDATE ]</title>
+      <pubDate>Friday, 26 July 2024</pubDate>
+      <description>
+        &lt;h1&gt;Point Hope Lighthouse&lt;/h1&gt;
+	&lt;h3&gt;Point Hope has been added to PET! You can now view the new map in the Interactive Map, and use the map modifiers in the Sanity tracker.&lt;/h3&gt;
+	&lt;h1&gt;New Themes&lt;/h1&gt;
+	&lt;h3&gt;There are new Themes available in the Marketplace! Unlock and Equip them in the Settings page.&lt;/h3&gt;
+	&lt;h3&gt;These themes are based on Phasmophobia prestiges and other ranks, using the badges as a color scheme.&lt;/h3&gt;
+	&lt;h3&gt;Two complimentary Themes have been added, called &quot;Whiteboard&quot; and &quot;Strategem Hero&quot;. Be sure to check them out! They are available to use by default.&lt;/h3&gt;
+	&lt;h1&gt;The Marketplace&lt;/h1&gt;
+	&lt;h3&gt;The Marketplace contains free, unlockable themes! Earn credits by watching ads, and then use the credits towards your selections. Note, you'll need to log in to a user account to use the Marketplace.&lt;/h3&gt;
+	&lt;h1&gt;User Account&lt;/h1&gt;
+	&lt;h3&gt;To use the Marketplace, you'll need to first log into a Google account. You can do this by visiting the Account page!&lt;/h3&gt;
+
+	&lt;h1&gt;Support version minimum increased to Android 8.0&lt;/h1&gt;
+	&lt;h3&gt;WARNING: If your device uses an Android version older than Android 8.0, DO NOT UNINSTALL P.E.T. or else it will no longer be available to your device on the Play Store! Please read the following information!&lt;/h3&gt;
+	&lt;h3&gt;Google has mandated all developers to update their apps to support a higher minimum Android version. This must be done before August 31, 2024. Thus, the new operating system minimum is Android 8.0. In short, if your device uses an operating system version that is older than Android 8.0, you will no longer be able to receive app updates. But you will still be able to use your currently installed version.&lt;/h3&gt;
+	&lt;h3&gt;P.E.T. has been updated earlier than this deadline. P.E.T. now only support Android 8.0+. Please understand that Tritium Studios has made a strong effort to support all possible Android versions. This was done so that all devices have an opportunity to use P.E.T. It is with great displeasure that users with devices using an operating system older than Android 8.0 are losing support. We hope that you choose to keep P.E.T. on your device or install P.E.T. on another device in the future!&lt;/h3&gt;
+
+	&lt;h1&gt;Bug Fixes&lt;/h1&gt;
+	&lt;ul class=&quot;bb_ul&quot;&gt;
+	  &lt;li&gt;Various translation fixes.&lt;br&gt;&lt;/li&gt;
+	  &lt;li&gt;Layout fixes.&lt;/li&gt;
+	  &lt;li&gt;Way too many bug fixes to count.&lt;/li&gt;
+        &lt;/ul&gt;
+      </description>
+    </item>
+    <item>
       <title>Halloween Update</title>
       <pubDate>Friday, 27 October 2023</pubDate>
       <description>
