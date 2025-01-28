@@ -8,8 +8,10 @@
       <description>
         &lt;h1&gt;Achievement Get: 10k Users&lt;/h1&gt;
         &lt;p&gt;Today marks the point at which "Phasmophobia Evidence Tool" surpassed 10,000 active users! It's difficult to imagine so many of you, but I have each and every one of you to thank for this truly monumental achievement.&lt;/p&gt;
+	&lt;br&gt;
         &lt;p&gt;Whether you're a long standing user or a new user, I owe a huge debt of gratitude because P.E.T. truly would not be such a success without your support! Three cheers to all of you! Your support means everything to me.&lt;/p&gt;
-        &lt;p&gt;Happy hunting!&lt;/p&gt;
+	&lt;br&gt;
+        &lt;h2&gt;Happy hunting!&lt;/h2&gt;
       </description>
     </item>
     <item>
@@ -18,8 +20,10 @@
       <description>
 	&lt;h1&gt;The Map Viewer has been updated!&lt;/h1&gt;
 	&lt;p&gt;The Map Viwer is now interactive! It supports map/floor/room selection, room searches, room boundary visualization, and displays Fuse Boxes and Cursed Items! Go check it out!&lt;/p&gt;
+	&lt;br&gt;
 	&lt;p&gt;Due to the new feature being highly experimental, if you have any problems with it, please be sure to contact TritiumGamingStudiosDM@gmail.com.&lt;/p&gt;
-        &lt;p&gt;Happy hunting!&lt;/p&gt;
+	&lt;br&gt;
+        &lt;h2&gt;Happy hunting!&lt;/h2&gt;
       </description>
     </item>
     <item>
@@ -28,8 +32,10 @@
       <description>
 	&lt;h1&gt;A new Phasmophobia update has arrived!&lt;/h1&gt;
 	&lt;p&gt;The Ascension Update has brought with it a whole slew of new content, including the highly anticipated Tier system.&lt;/p&gt;
+	&lt;br&gt;
 	&lt;p&gt;These numerous changes will result in the community banding together to unearth how all of the new features and tools work. We look forward to learning much more from our fellow investigators!&lt;/p&gt;
-	&lt;h2&gt;As always, Happy Hunting!&lt;/h1&gt;
+	&lt;br&gt;
+	&lt;h2&gt;As always, Happy Hunting!&lt;/h2&gt;
       </description>
     </item>
     <item>
@@ -42,7 +48,7 @@
 	&lt;p&gt;PET has been reworked to assist users with this new Insanity mode! The changes will be released in the the next PET update shortly following the Phasmophobia update.&lt;/p&gt;
 	&lt;p&gt;A new feature -- the Ghost Box -- will be available for Beta testing with this new update. The Ghost Box is a Text to Speech (TTS) voice bot which allows individuals to communicate with the ghost without having to speak into the microphone directly. After connecting your phone audio output to you system input, via Bluetooth or Auxiliary cables, you may use the Ghost Box to transmit voice prompts directly into the game. This is especially good for the mute or deaf community, or for users who need to maintain a quiet working environment! As this is a delicate feature, some issues may arise. To enable the Ghost Box, these conditions must be met: PET must be granted permission to access the device's Microphone, your device must have a Text to Speech voice package installed (your selected language may require a specific TTS voice package installed for proper pronounciations), and your volume must be turned on to hear the audio output.&lt;/p&gt;
 	&lt;p&gt;Other changes, such as bug fixes and added functionality, have also been in development. Expect to see these changes in the coming weeks.&lt;/p&gt;
-	&lt;h2&gt;As always, Happy Hunting!&lt;/h1&gt;
+	&lt;h2&gt;As always, Happy Hunting!&lt;/h2&gt;
       </description>
     </item>
     <item>
@@ -53,7 +59,7 @@
 	&lt;p&gt;The most recent Hotfixes &lt;em&gt;should&lt;/em&gt; resolve crashes which were caused by new features in the Quality of Life update.&lt;/p&gt;
 	&lt;p&gt;I'd like to extend many apologies for the issues. They were caused by many problems which I was unable to fabricate through testing, as they were heavily bound to both internet connectivity performance, device performance, and the Android OS versions. As such, I'll be closely monitoring Live performance over the next few days for any new problems.&lt;/p&gt;
 	&lt;p&gt;Many thanks for submitting your user crash reports! Don't forget, you can join the PET Discord for more information, or to speak on issues directly!&lt;/p&gt;
-	&lt;h2&gt;As always, Happy Hunting!&lt;/h1&gt;
+	&lt;h2&gt;As always, Happy Hunting!&lt;/h2&gt;
       </description>
     </item>
     <item>
