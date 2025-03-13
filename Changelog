@@ -3,6 +3,21 @@
   <channel>
     <language>en-us</language>
     <item>
+      <title>Bleasdale Farmhouse Update</title>
+      <pubDate>Tuesday, 11 March 2025</pubDate>
+      <description>
+        &lt;h1&gt;Bleasdale Farmhouse&lt;/h1&gt;
+	&lt;h3&gt;The new Bleasdale Farmhouse map has been added to PET! You can now view the new map in the Interactive Map.&lt;/h3&gt;
+        &lt;h1&gt;Additions&lt;/h1&gt;
+	&lt;h3&gt;"Ukrainian" has been added to the list of optional languages. A huge "thank you" to HAINER is in order for submitting the translations!&lt;/h3&gt;
+	&lt;h1&gt;Bug Fixes&lt;/h1&gt;
+	&lt;ul class=&quot;bb_ul&quot;&gt;
+	&lt;li&gt;Various translation fixes.&lt;br&gt;&lt;/li&gt;
+	&lt;li&gt;Layout fixes.&lt;/li&gt;
+        &lt;/ul&gt;
+      </description>
+    </item>
+    <item>
       <title>Point Hope and Marketplace [ MAJOR UPDATE ]</title>
       <pubDate>Friday, 26 July 2024</pubDate>
       <description>
