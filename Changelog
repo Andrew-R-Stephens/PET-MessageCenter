@@ -3,6 +3,23 @@
   <channel>
     <language>en-us</language>
     <item>
+      <title>Grafton Farmhouse Update - Hotfix 1</title>
+      <pubDate>Friday, 116 August 2025</pubDate>
+      <description>
+        &lt;h1&gt;Update Manager Patch&lt;/h1&gt;
+	&lt;h3&gt;There were long-standing issue with implementations of the Update Manager prompt API. This patch &lt;em&gt;should&lt;/em&gt; iron-out the crashes and instability.&lt;/h3&gt;
+	&lt;h3&gt;Many apologies!&lt;/h3&gt;
+      </description>
+    </item>
+    <item>
+      <title>Grafton Farmhouse Update</title>
+      <pubDate>Friday, 15 August 2025</pubDate>
+      <description>
+        &lt;h1&gt;Grafton Farmhouse Remaster&lt;/h1&gt;
+	&lt;h3&gt;The new Grafton Farmhouse map has been updated for the remaster! You can now view the new map in the Interactive Map.&lt;/h3&gt;
+      </description>
+    </item>
+    <item>
       <title>Bleasdale Farmhouse Update</title>
       <pubDate>Tuesday, 11 March 2025</pubDate>
       <description>
