@@ -6,6 +6,7 @@
       <title>Grafton Farmhouse Update - Hotfix 1</title>
       <pubDate>Friday, 116 August 2025</pubDate>
       <description>
+        &lt;h5&gt;Version: 9.2.2&lt;/h5&gt;
         &lt;h1&gt;Update Manager Patch&lt;/h1&gt;
 	&lt;h3&gt;Fix critical issues with the Update Manager prompt API implementation. This patch should iron-out the crashes and instability.&lt;/h3&gt;
 	&lt;h3&gt;Many apologies!&lt;/h3&gt;
@@ -15,8 +16,13 @@
       <title>Grafton Farmhouse Update</title>
       <pubDate>Friday, 15 August 2025</pubDate>
       <description>
+        &lt;h5&gt;Version: 9.2.0 - 9.2.1&lt;/h5&gt;
         &lt;h1&gt;Grafton Farmhouse Remaster&lt;/h1&gt;
 	&lt;h3&gt;The new Grafton Farmhouse map has been updated for the remaster! You can now view the new map in the Interactive Map.&lt;/h3&gt;
+		&lt;h3&gt;Bug Fixes&lt;/h3&gt;
+		  &lt;ul class=&quot;bb_ul&quot;&gt;
+		  &lt;li&gt;Collapse/Expand toggle button re-added to Investigation page.&lt;br&gt;&lt;/li&gt;
+		&lt;/ul&gt;
       </description>
     </item>
     <item>
