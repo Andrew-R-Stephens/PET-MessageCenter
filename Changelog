@@ -7,7 +7,7 @@
       <pubDate>Friday, 116 August 2025</pubDate>
       <description>
         &lt;h1&gt;Update Manager Patch&lt;/h1&gt;
-	&lt;h3&gt;There were long-standing issue with implementations of the Update Manager prompt API. This patch &lt;em&gt;should&lt;/em&gt; iron-out the crashes and instability.&lt;/h3&gt;
+	&lt;h3&gt;Fix issues with implementations of the Update Manager prompt API. This patch &lt;em&gt;should&lt;/em&gt; iron-out the crashes and instability.&lt;/h3&gt;
 	&lt;h3&gt;Many apologies!&lt;/h3&gt;
       </description>
     </item>
