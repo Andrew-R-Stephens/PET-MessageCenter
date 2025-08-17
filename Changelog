@@ -8,7 +8,7 @@
       <description>
         &lt;h5&gt;Version: 9.2.2&lt;/h5&gt;
         &lt;h1&gt;Update Manager Patch&lt;/h1&gt;
-	&lt;h3&gt;Fix critical issues with the Update Manager prompt API implementation. This patch should iron-out the crashes and instability.&lt;/h3&gt;
+	&lt;h3&gt;Fix critical implementation issues of the Update Manager prompt API. This patch should iron-out the crashes and instability.&lt;/h3&gt;
 	&lt;h3&gt;Many apologies!&lt;/h3&gt;
       </description>
     </item>
