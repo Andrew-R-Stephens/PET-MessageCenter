@@ -3,6 +3,26 @@
   <channel>
     <language>en-us</language>
     <item>
+      <title>Grafton Farmhouse Update - Hotfix 2</title>
+      <pubDate>Friday, 22 August 2025</pubDate>
+      <description>
+        &lt;h5&gt;Version: 9.2.3&lt;/h5&gt;
+		&lt;h1&gt;Changes&lt;/h1&gt;
+		&lt;ul class=&quot;bb_ul&quot;&gt;
+		  &lt;li&gt;Change Equipment icons in the Codex.&lt;br&gt;&lt;/li&gt;
+		  &lt;li&gt;Add Sound Recorder equipment to the Codex.&lt;br&gt;&lt;/li&gt;
+		  &lt;li&gt;Add missing side objectives and edit pre-existing side objectives to the Objectives page.&lt;br&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+		&lt;h1&gt;Fixes&lt;/h1&gt;
+		&lt;ul class=&quot;bb_ul&quot;&gt;
+		  &lt;li&gt;Patch various bugs causing crashes on certain devices.&lt;br&gt;&lt;/li&gt;
+		  &lt;li&gt;Fix information for the Mare.&lt;br&gt;&lt;/li&gt;
+		  &lt;li&gt;Fix data for the UV light in the Codex.&lt;br&gt;&lt;/li&gt;
+		  &lt;li&gt;Fix thumbnail images for Grafton Farmhouse in the Map Menu.&lt;br&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+      </description>
+    </item>
+    <item>
       <title>Grafton Farmhouse Update - Hotfix 1</title>
       <pubDate>Friday, 16 August 2025</pubDate>
       <description>
