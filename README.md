@@ -1,2 +1,2 @@
 # PET-MessageCenter
-PET Message of the Day messages. Read-only by devices. Published by TRITIUMNITR0X.
+PET Message of the Day database. Read-only by devices.
