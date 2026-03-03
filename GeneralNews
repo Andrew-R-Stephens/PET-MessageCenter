@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <language>en-us</language>
+    <language>en-us</language>      
+    <title>6 Tanglewood Drive Rework</title>
+      <pubDate>Tues, 3 March 2026</pubDate>
+      <description>
+        &lt;h1&gt;Tangewood has been changed!&lt;/h1&gt;
+		&lt;h3&gt;After months of anticipation, the new Tanglewood update has been released. These new game changes will be reflected in PET today as soon as possible!&lt;/h3&gt;
+      </description>
+    </item>    
     <item>
       <title>Celebrating a Milestone!</title>
       <pubDate>Saturday, 11 January 2025</pubDate>
