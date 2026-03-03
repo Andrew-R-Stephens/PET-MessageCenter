@@ -6,9 +6,10 @@
       <title>Tanglewood Rework Update</title>
       <pubDate>Tuesday, 3 March 2026</pubDate>
       <description>
-        &lt;h5&gt;Version: 0.10.3.0&lt;/h5&gt;
+        &lt;h5&gt;App Version: 0.10.3.0&lt;/h5&gt;
+        &lt;h5&gt;Game Version: 0.16.0.0&lt;/h5&gt;
         &lt;h1&gt;Tanglewood Rework&lt;/h1&gt;
-	    &lt;h3&gt;The Tanglewood map has been reworked! You can now view the new map in the Interactive Map.&lt;/h3&gt;
+	    &lt;h5&gt;The Tanglewood map has been reworked! You can now view the new map in the Interactive Map.&lt;/h5&gt;
       </description>
     </item>
     <item>
@@ -17,7 +18,7 @@
       <description>
         &lt;h5&gt;Version: 10.2.0&lt;/h5&gt;
         &lt;h1&gt;Release of new Ghosts!&lt;/h1&gt;
-		&lt;h3&gt;The new ghosts, Dayan, Gallu, and Obambo have been added to Phasmophobia, and they are now available on PET!&lt;/h3&gt;
+		&lt;h5&gt;The new ghosts, Dayan, Gallu, and Obambo have been added to Phasmophobia, and they are now available on PET!&lt;/h5&gt;
       </description>
     </item>
     <item>
@@ -26,7 +27,7 @@
       <description>
         &lt;h5&gt;Version: 10.1.0&lt;/h5&gt;
         &lt;h1&gt;Release of Nell's Diner&lt;/h1&gt;
-		&lt;h3&gt;The new Nell's Diner map has been added to Phasmophobia! And you guessed it, the map is indeed available to view here with the Interactive Map.&lt;/h3&gt;
+		&lt;h5&gt;The new Nell's Diner map has been added to Phasmophobia! And you guessed it, the map is indeed available to view here with the Interactive Map.&lt;/h5&gt;
       </description>
     </item>
     <item>
@@ -55,8 +56,8 @@
       <description>
         &lt;h5&gt;Version: 9.2.2&lt;/h5&gt;
         &lt;h1&gt;Update Manager Patch&lt;/h1&gt;
-	&lt;h3&gt;Fix critical implementation issues of the Update Manager prompt API. This patch should iron-out the crashes and instability.&lt;/h3&gt;
-	&lt;h3&gt;Many apologies!&lt;/h3&gt;
+	&lt;h5&gt;Fix critical implementation issues of the Update Manager prompt API. This patch should iron-out the crashes and instability.&lt;/h5&gt;
+	&lt;h5&gt;Many apologies!&lt;/h5&gt;
       </description>
     </item>
     <item>
@@ -65,7 +66,7 @@
       <description>
         &lt;h5&gt;Version: 9.2.0 - 9.2.1&lt;/h5&gt;
         &lt;h1&gt;Grafton Farmhouse Remaster&lt;/h1&gt;
-	&lt;h3&gt;The new Grafton Farmhouse map has been updated for the remaster! You can now view the new map in the Interactive Map.&lt;/h3&gt;
+	&lt;h5&gt;The new Grafton Farmhouse map has been updated for the remaster! You can now view the new map in the Interactive Map.&lt;/h3&gt;
 		&lt;h3&gt;Bug Fixes&lt;/h3&gt;
 		  &lt;ul class=&quot;bb_ul&quot;&gt;
 		  &lt;li&gt;Collapse/Expand toggle button re-added to Investigation page.&lt;br&gt;&lt;/li&gt;
@@ -77,9 +78,9 @@
       <pubDate>Tuesday, 11 March 2025</pubDate>
       <description>
         &lt;h1&gt;Bleasdale Farmhouse&lt;/h1&gt;
-	&lt;h3&gt;The new Bleasdale Farmhouse map has been added to PET! You can now view the new map in the Interactive Map.&lt;/h3&gt;
+	&lt;h5&gt;The new Bleasdale Farmhouse map has been added to PET! You can now view the new map in the Interactive Map.&lt;/h5&gt;
         &lt;h1&gt;Additions&lt;/h1&gt;
-	&lt;h3&gt;"Ukrainian" has been added to the list of optional languages. Special thanks to HAINER for submitting the translations!&lt;/h3&gt;
+	&lt;h5&gt;"Ukrainian" has been added to the list of optional languages. Special thanks to HAINER for submitting the translations!&lt;/h5&gt;
 	&lt;h1&gt;Bug Fixes&lt;/h1&gt;
 	&lt;ul class=&quot;bb_ul&quot;&gt;
 	&lt;li&gt;Various translation fixes.&lt;br&gt;&lt;/li&gt;
@@ -92,20 +93,20 @@
       <pubDate>Friday, 26 July 2024</pubDate>
       <description>
         &lt;h1&gt;Point Hope Lighthouse&lt;/h1&gt;
-	&lt;h3&gt;Point Hope has been added to PET! You can now view the new map in the Interactive Map, and use the map modifiers in the Sanity tracker.&lt;/h3&gt;
+	&lt;h5&gt;Point Hope has been added to PET! You can now view the new map in the Interactive Map, and use the map modifiers in the Sanity tracker.&lt;/h5&gt;
 	&lt;h1&gt;New Themes&lt;/h1&gt;
-	&lt;h3&gt;There are new Themes available in the Marketplace! Unlock and Equip them in the Settings page.&lt;/h3&gt;
-	&lt;h3&gt;These themes are based on Phasmophobia prestiges and other ranks, using the badges as a color scheme.&lt;/h3&gt;
-	&lt;h3&gt;Two complimentary Themes have been added, called &quot;Whiteboard&quot; and &quot;Strategem Hero&quot;. Be sure to check them out! They are available to use by default.&lt;/h3&gt;
+	&lt;h5&gt;There are new Themes available in the Marketplace! Unlock and Equip them in the Settings page.&lt;/h5&gt;
+	&lt;h5&gt;These themes are based on Phasmophobia prestiges and other ranks, using the badges as a color scheme.&lt;/h5&gt;
+	&lt;h5&gt;Two complimentary Themes have been added, called &quot;Whiteboard&quot; and &quot;Strategem Hero&quot;. Be sure to check them out! They are available to use by default.&lt;/h5&gt;
 	&lt;h1&gt;The Marketplace&lt;/h1&gt;
-	&lt;h3&gt;The Marketplace contains free, unlockable themes! Earn credits by watching ads, and then use the credits towards your selections. Note, you'll need to log in to a user account to use the Marketplace.&lt;/h3&gt;
+	&lt;h5&gt;The Marketplace contains free, unlockable themes! Earn credits by watching ads, and then use the credits towards your selections. Note, you'll need to log in to a user account to use the Marketplace.&lt;/h5&gt;
 	&lt;h1&gt;User Account&lt;/h1&gt;
-	&lt;h3&gt;To use the Marketplace, you'll need to first log into a Google account. You can do this by visiting the Account page!&lt;/h3&gt;
+	&lt;h5&gt;To use the Marketplace, you'll need to first log into a Google account. You can do this by visiting the Account page!&lt;/h5&gt;
 
 	&lt;h1&gt;Support version minimum increased to Android 8.0&lt;/h1&gt;
-	&lt;h3&gt;WARNING: If your device uses an Android version older than Android 8.0, DO NOT UNINSTALL P.E.T. or else it will no longer be available to your device on the Play Store! Please read the following information!&lt;/h3&gt;
-	&lt;h3&gt;Google has mandated all developers to update their apps to support a higher minimum Android version. This must be done before August 31, 2024. Thus, the new operating system minimum is Android 8.0. In short, if your device uses an operating system version that is older than Android 8.0, you will no longer be able to receive app updates. But you will still be able to use your currently installed version.&lt;/h3&gt;
-	&lt;h3&gt;P.E.T. has been updated earlier than this deadline. P.E.T. now only support Android 8.0+. Please understand that Tritium Studios has made a strong effort to support all possible Android versions. This was done so that all devices have an opportunity to use P.E.T. It is with great displeasure that users with devices using an operating system older than Android 8.0 are losing support. We hope that you choose to keep P.E.T. on your device or install P.E.T. on another device in the future!&lt;/h3&gt;
+	&lt;h5&gt;WARNING: If your device uses an Android version older than Android 8.0, DO NOT UNINSTALL P.E.T. or else it will no longer be available to your device on the Play Store! Please read the following information!&lt;/h5&gt;
+	&lt;h5&gt;Google has mandated all developers to update their apps to support a higher minimum Android version. This must be done before August 31, 2024. Thus, the new operating system minimum is Android 8.0. In short, if your device uses an operating system version that is older than Android 8.0, you will no longer be able to receive app updates. But you will still be able to use your currently installed version.&lt;/h5&gt;
+	&lt;h5&gt;P.E.T. has been updated earlier than this deadline. P.E.T. now only support Android 8.0+. Please understand that Tritium Studios has made a strong effort to support all possible Android versions. This was done so that all devices have an opportunity to use P.E.T. It is with great displeasure that users with devices using an operating system older than Android 8.0 are losing support. We hope that you choose to keep P.E.T. on your device or install P.E.T. on another device in the future!&lt;/h5&gt;
 
 	&lt;h1&gt;Bug Fixes&lt;/h1&gt;
 	&lt;ul class=&quot;bb_ul&quot;&gt;
