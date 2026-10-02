@@ -3,6 +3,33 @@
   <channel>
     <language>en-us</language>  
     <item>
+      <title>Official Release of PET 1.0!</title>
+      <pubDate>Thursday, 1 October 2026</pubDate>
+      <description>
+        &lt;h1&gt;Official PET 1.0 Release!&lt;/h1&gt;
+	    &lt;h5&gt;After years of development, recreating PET from the ground-up, the official release of PET 1.0 is finally here!&lt;/h5&gt;
+	    &lt;h5&gt;Today marks the end of the legacy version and the birth of a modern, yet familiar Phasmophobia Evidence Tool! With it, investigators will now have access to an array of extremely powerful tools for completing their contracts.&lt;/h5&gt;
+		&lt;h1&gt;I hope these new changes will assist your investigations!&lt;/h1&gt;
+		&lt;ul class=&quot;bb_ul&quot;&gt;
+		  &lt;li&gt;&lt;b&gt;Intelligent Ghost Filtering:&lt;/b&gt; The system for ruling out ghosts is now more intelligent than ever! Combining results of the BPM tool, the Trait tool, and the Journal to narrow the ghosts down! But it doesn't stop there! For instance, by selecting a Male first name, female-only ghosts are now ruled out.&lt;br&gt;&lt;/li&gt;
+		  &lt;li&gt;&lt;b&gt;Ghost Footstep tool:&lt;/b&gt; Tap to the beat of the hunting ghost!&lt;br&gt;&lt;/li&gt;
+		  &lt;li&gt;&lt;b&gt;Ghost Behavior/Trait tool:&lt;/b&gt; It uses selected ghost behaviors to narrow down ghosts.&lt;br&gt;&lt;/li&gt;
+		  &lt;li&gt;&lt;b&gt;Timers:&lt;/b&gt; Have you been using another app to measure the time between Hunts? What about for how long the Smudge protects a room, the time between Hunts, or how long fingerprints last? Now you can find those timers in PET!&lt;br&gt;&lt;/li&gt;
+		  &lt;li&gt;&lt;b&gt;Map Weather:&lt;/b&gt; Select the current weather! Clear, Snow, or Blood Moon, use the Weather to your advantage to properly calculate room temperatures.&lt;br&gt;&lt;/li&gt;
+		  &lt;li&gt;&lt;b&gt;Room Temperature:&lt;/b&gt; Approximates current ambient room temperature (based on if Power is active) if the ghost has not entered it.&lt;br&gt;&lt;/li&gt;
+		  &lt;li&gt;&lt;b&gt;Weekly Challenges:&lt;/b&gt; The current week's challenge! Select it in place of a normal or custom difficulty. Some challenges block out the ability to use Evidence, or completely removes your ability to restore Sanity. It's all configured in PET!&lt;br&gt;&lt;/li&gt;
+		  &lt;li&gt;&lt;b&gt;Custom Difficulty:&lt;/b&gt; Create your own Custom rules for your contracts! Difficulty settings will have an impact on one or more features within PET.&lt;br&gt;&lt;/li&gt;
+		  &lt;li&gt;&lt;b&gt;Contract Details:&lt;/b&gt; See all of the difficulty and map data regarding your contract!&lt;br&gt;&lt;/li&gt;
+		  &lt;li&gt;&lt;b&gt;New UI:&lt;/b&gt; A modern, clean, yet very familiar interface which supports most devices.&lt;br&gt;&lt;/li&gt;
+		  &lt;li&gt;&lt;b&gt;+ More&lt;/b&gt;&lt;br&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+	    &lt;h5&gt;I'm extremely exhausted, but also extremely proud of how far PET has come. PET's evolution has gone from conseption as a solution to problems players were having, to a simple desktop app, then to very basic Android app, and finally to what's here today. PET has existed as my passion project to help players, and it always will.&lt;/h5&gt;
+		&lt;h1&gt;If you want to support development, please consider subscribing the the Patreon!&lt;/h1&gt;
+		&lt;h3&gt;With much love to you all,&lt;/h3&gt;
+		&lt;h3&gt;Andrew / Tritium Studios&lt;/h3&gt;
+      </description>
+    </item>
+    <item>
        <title>6 Tanglewood Drive Rework</title>
        <pubDate>Tuesday, 3 March 2026</pubDate>
        <description>
